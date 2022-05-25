@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarrys&label=Profile%20views&color=0e75b6&style=flat" alt="akarrys" /> </p>
 
-- 🔭 I’m currently working on **getting hired**
 
 - 🌱 I’m currently learning **Pentesting tools and strategies**
 
