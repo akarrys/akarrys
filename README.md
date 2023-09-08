@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm akarrys</h1>
-<h3 align="center">A passionate software developer / pen-tester from USA</h3>
+<h3 align="center">A passionate software developer/cybsersecurity student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarrys&label=Profile%20views&color=0e75b6&style=flat" alt="akarrys" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,C#,HTML,JS,ReactJS,Burpsuite,Wireshark,Kali-Linux**
 
-- 📫 How to reach me **artamiskarrys47@gmail.com**
+- 📫 How to reach me **artamiskarrys@gmail.com**
 
 - 📄 Portfolio Website and Resume [https://artamiskarrys.com](https://artamiskarrys.com)
 
